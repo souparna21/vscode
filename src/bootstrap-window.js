@@ -138,6 +138,7 @@
 			loaderConfig.paths = {
 				'vscode-textmate': `../node_modules/vscode-textmate/release/main`,
 				'vscode-oniguruma': `../node_modules/vscode-oniguruma/release/main`,
+				'@vscode/vscode-languagedetection': `../node_modules/@vscode/vscode-languagedetection/dist/index.js`,
 				'xterm': `../node_modules/xterm/lib/xterm.js`,
 				'xterm-addon-search': `../node_modules/xterm-addon-search/lib/xterm-addon-search.js`,
 				'xterm-addon-unicode11': `../node_modules/xterm-addon-unicode11/lib/xterm-addon-unicode11.js`,
