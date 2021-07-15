@@ -88,11 +88,6 @@ export class LanguageDetectionService extends Disposable implements ILanguageDet
 			return this._modelOperations;
 		}
 
-		// require.config({
-		// 	paths: {
-		// 		'@vscode/vscode-languagedetection': '../node_modules/@vscode/vscode-languagedetection/dist',
-		// 	}
-		// });
 		const { ModelOperations } = await import('@vscode/vscode-languagedetection');
 		this._modelOperations = new ModelOperations(
 			async () => {
