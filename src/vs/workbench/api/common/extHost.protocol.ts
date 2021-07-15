@@ -1093,6 +1093,7 @@ export interface IStartDebuggingOptions {
 	repl?: IDebugSessionReplMode;
 	noDebug?: boolean;
 	compact?: boolean;
+	simpleUI?: boolean;
 }
 
 export interface MainThreadDebugServiceShape extends IDisposable {
