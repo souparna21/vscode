@@ -975,7 +975,7 @@
   resolved "https://registry.yarnpkg.com/@ungap/promise-all-settled/-/promise-all-settled-1.1.2.tgz#aa58042711d6e3275dd37dc597e5d31e8c290a44"
   integrity sha512-sL/cEvJWAnClXw0wHk85/2L0G6Sj8UB0Ctc1TEMbKSsmpRosqhwj9gWgFRZSrBr2f9tiXISwNhCPmlfqUqyb9Q==
 
-"@vscode/vscode-languagedetection@^1.0.8":
+"@vscode/vscode-languagedetection@1.0.8":
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/@vscode/vscode-languagedetection/-/vscode-languagedetection-1.0.8.tgz#2d2bd856c8a585f371b43b1a525e697c576ed97b"
   integrity sha512-+gHuIGaMmWXEKc18Kv5i46coU6I2/PFI30JCml76J+0hhu+pIyb2vFU94qODjTayvD4g3vQZOPLY78cKYblvsQ==
